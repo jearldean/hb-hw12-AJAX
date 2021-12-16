@@ -1,0 +1,23 @@
+h2 {
+    margin-top: 3em;
+    border-top: solid 1px #ccc;
+    padding-top: 0.2em;
+}
+
+input {
+	margin-top: 10px;
+}
+
+select {
+	margin-top: 10px;
+}
+
+#submit-profile {
+	margin: 10px;
+}
+
+#profiles {
+	margin: 10px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
