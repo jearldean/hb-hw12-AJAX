@@ -24,7 +24,7 @@ def profile():
     profile_pack['salary'] = request.json.get('salary')
     profile_pack['education'] = request.json.get('education')
     profile_pack['state'] = request.json.get('state')
-    profile_pack['city'] = request.json.get('city')
+    profile_pack['interests'] = request.json.get('interests')
     profile_pack['garden'] = request.json.get('garden')
     profile_pack['tv'] = request.json.get('tv')
 
